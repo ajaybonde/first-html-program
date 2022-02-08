@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4;
+    font-family: bolts;
+    font: size 14px;
+}
+
+h1.redclass {
+    color: #cf2121;
+    font-size: 18px;
+}
+
+#container {
+    width: 500px;
+    margin: 7px auto;
+    border: 2px solid #cf2121;
+    padding: 20px;
+}
